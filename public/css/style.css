@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+button{
+    padding: 40px;
+    font-size: 25px;
+    border-radius: 10px;
+}
